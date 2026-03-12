@@ -54,8 +54,6 @@ https://github.com/yashvardhanraii/data-analytics-portfolio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashvardhanraii&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhanraii&layout=compact&theme=github_dark&hide=jupyter%20notebook)
-
 ---
 
 ## Contact
