@@ -26,3 +26,4 @@ Tools: Python, Pandas, Plotly
 
 ## Contact
 LinkedIn: https://linkedin.com/in/yashvardhanrai
+Email: yashvardhanraii@gmail.com
