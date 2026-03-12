@@ -6,7 +6,7 @@ Interested in data analytics, business intelligence, and using data to support d
 ## Skills
 Python, SQL, Pandas, Microsoft Excel, Power BI, IBM Cognos Analytics, Plotly, Matplotlib, Git, Jupyter Notebook
 
-## Projects
+## Top Projects
 
 ### [DoorDash Delivery Efficiency Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)
 Analysis of historical delivery data to identify efficient regions, peak delivery times, and operational patterns.  
@@ -16,17 +16,14 @@ Tools: Python, Pandas, Plotly
 Business intelligence dashboard analysing vehicle sales performance, dealer profitability, product demand, and service issues.  
 Tools: IBM Cognos Analytics
 
-### [Queensland Green Tourism Fleet Strategy](https://github.com/yashvardhanraii/queensland-green-tourism-fleet-strategy)
-Data analysis evaluating the transition from petrol vehicles to hybrid and electric vehicles.  
-Tools: Excel, Data Analysis
-
 ### [Perth Housing Market Dashboard](https://github.com/yashvardhanraii/perth-housing-market-dashboard)
 Excel dashboard analysing housing prices and property characteristics across Perth suburbs.  
 Tools: Microsoft Excel
 
-### [Coffee Sales Market Analysis](https://github.com/yashvardhanraii/coffee-sales-market-analysis)
-Python analysis combining coffee sales data and news trends to explore market insights.  
-Tools: Python, Pandas, Plotly
+## More Projects
+
+Full portfolio:  
+https://github.com/yashvardhanraii/data-analytics-portfolio
 
 ## Contact
 LinkedIn: https://linkedin.com/in/yashvardhanrai  
