@@ -3,8 +3,8 @@
 Bachelor of Information Technology graduate from QUT with a major in Computer Science and Data Science.  
 Interested in data analytics, business intelligence, and using data to support data-driven decision making.
 
-## Skills
-Python, SQL, Pandas, Microsoft Excel, Power BI, IBM Cognos Analytics, Plotly, Matplotlib, Git, Jupyter Notebook
+## Skills & Frameworks
+Python, SQL, Pandas, Microsoft Excel, Power BI, IBM Cognos Analytics, Plotly, Matplotlib, Git, Jupyter Notebook, TOWS, QDAVI
 
 ## Top Projects
 
