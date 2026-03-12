@@ -1,4 +1,4 @@
-# Hi, I'm Yash Vardhan Rai
+# Hi, I'm Yash Vardhan Rai 👋🏽
 
 Bachelor of Information Technology graduate from QUT with a major in Computer Science and Data Science.  
 Interested in data analytics, business intelligence, and using data to support decision-making.
