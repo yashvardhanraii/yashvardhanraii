@@ -19,7 +19,8 @@ Interested in data analytics, business intelligence, and using data to generate 
 
 ### [DoorDash Delivery Efficiency Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)
 Python analysis of historical DoorDash delivery data to identify efficient regions, peak delivery hours, and operational patterns for drivers.  
-**Tools:** Python, Pandas, Plotly
+**Tools:** Python, Pandas, Plotly  
+**Framework:** QDAVI
 
 ---
 
