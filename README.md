@@ -45,18 +45,6 @@ https://github.com/yashvardhanraii/data-analytics-portfolio
 
 ---
 
-## GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashvardhanraii&theme=github-dark)
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashvardhanraii&show_icons=true&theme=github_dark)
-
----
-
 ## Contact
 
 **LinkedIn**  
