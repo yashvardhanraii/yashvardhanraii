@@ -25,5 +25,5 @@ Python analysis combining coffee sales data and news trends to explore market in
 Tools: Python, Pandas, Plotly
 
 ## Contact
-LinkedIn: https://linkedin.com/in/yashvardhanrai
+LinkedIn: https://linkedin.com/in/yashvardhanrai  
 Email: yashvardhanraii@gmail.com
