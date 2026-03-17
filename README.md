@@ -32,7 +32,7 @@ Tools: Python, Pandas, Plotly
 
 Complete collection of analytics and business intelligence projects:
 
-Data Analytics Portfolio
+Data Analytics Portfolio:  
 https://github.com/yashvardhanraii/data-analytics-portfolio 
 
 ---
