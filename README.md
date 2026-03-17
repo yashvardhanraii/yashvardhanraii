@@ -15,6 +15,28 @@ Interested in data analytics, business intelligence, and using data to generate 
 
 ---
 
+## Featured Projects
+
+### [Personal Finance Spending Dashboard](https://github.com/yashvardhanraii/personal-finance-sql-powerbi-dashboard)
+End-to-end analytics project using SQL views and Power BI to analyse spending behaviour, category concentration, and monthly trends with dynamic filtering.  
+Tools: MySQL, SQL, Power BI
+
+### [DoorDash Delivery Efficiency Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)
+Analysis of delivery data to identify optimal regions, peak delivery hours, and operational patterns.  
+Framework: QDAVI  
+Tools: Python, Pandas, Plotly
+
+---
+
+## Portfolio
+
+Complete collection of analytics and business intelligence projects:
+
+Data Analytics Portfolio
+https://github.com/yashvardhanraii/data-analytics-portfolio 
+
+---
+
 ## Contact
 
 **LinkedIn**  
