@@ -17,7 +17,7 @@ Interested in data analytics, business intelligence, and using data to generate 
 
 ## Featured Projects
 
-### [Personal Finance Spending Dashboard](https://github.com/yashvardhanraii/personal-finance-sql-powerbi-dashboard)
+### [Personal Finance Spending Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)
 End-to-end analytics project using SQL views and Power BI to analyse spending behaviour, category concentration, and monthly trends with dynamic filtering.  
 Tools: MySQL, SQL, Power BI
 
