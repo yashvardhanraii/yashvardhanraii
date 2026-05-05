@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:DC2626&height=200&section=header&text=Yash%20Vardhan%20Rai&fontSize=50&fontColor=FAFAFA&fontAlignY=35&desc=Data%20Analyst%20%7C%20Australia&descAlignY=55&descColor=FCA5A5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:DC2626&height=180&section=header&text=Yash%20Vardhan%20Rai&fontSize=48&fontColor=FAFAFA&fontAlignY=38&desc=Data%20Analyst%20%7C%20Australia&descAlignY=62&descColor=FCA5A5" width="100%"/>
 
-<div align="center" style="margin-top:-30px;">
+<div align="center" style="margin-top:-20px;">
 
 <img src="business-story-board.svg" width="700" alt="Business Story Board" />
 
@@ -108,4 +108,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:111111&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:111111&height=90&section=footer" width="100%"/>
