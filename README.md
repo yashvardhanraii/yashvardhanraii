@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:DC2626&height=200&section=header&text=Yash%20Vardhan%20Rai&fontSize=50&fontColor=FAFAFA&fontAlignY=35&desc=Data%20Analyst%20%7C%20Australia&descAlignY=55&descColor=FCA5A5" width="100%"/>
 
-<div align="center">
+<div align="center" style="margin-top:-24px;">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
 
 <br>
 
-🎓 Bachelor of Information Technology, QUT (Computer Science & Data Science) &nbsp;·&nbsp; ✓ Full working rights (485 visa)
+🎓 Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; ✔️ Full working rights
 
 </div>
 
