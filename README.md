@@ -1,11 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:DC2626&height=110&section=header&text=Yash%20Vardhan%20Rai&fontSize=36&fontColor=FAFAFA&fontAlignY=38&desc=Data%20Analyst%20%7C%20Australia&descAlignY=68&descColor=FCA5A5" width="100%"/>
+<div align="center">
 
-<div align="center" style="margin-top:-12px;">
+# Yash Vardhan Rai
+
+### Data Analyst | Australia
 
 <img src="business-story-board.svg" width="700" alt="Business Story Board" />
 
-<div style="margin-top:-6px;">
 🎓 Bachelor of Information Technology, QUT (Computer Science & Data Science) &nbsp;·&nbsp; ✓ Full working rights (485 visa)
+
 </div>
 
 </div>
