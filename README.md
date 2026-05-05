@@ -14,14 +14,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="30" height="30" />
-    </td>
-    <td><h2>Tech Stack</h2></td>
-  </tr>
-</table>
+<h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="28"></h2>
 
 <div align="center">
 
@@ -40,14 +33,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" width="30" height="30" />
-    </td>
-    <td><h2>Featured Projects</h2></td>
-  </tr>
-</table>
+<h2>Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" width="28"></h2>
 
 <div align="center">
 
@@ -62,20 +48,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" width="18" height="18" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+📁 **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="30" height="30" />
-    </td>
-    <td><h2>Experience</h2></td>
-  </tr>
-</table>
+<h2>Experience <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="28"></h2>
 
 ### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
@@ -93,14 +72,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="30" height="30" />
-    </td>
-    <td><h2>What I Work On</h2></td>
-  </tr>
-</table>
+<h2>What I Work On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="28"></h2>
 
 <div align="center">
 
@@ -114,14 +86,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="40">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="30" height="30" />
-    </td>
-    <td><h2>Let's Connect</h2></td>
-  </tr>
-</table>
+<h2>Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="28"></h2>
 
 <div align="center">
 
