@@ -4,76 +4,45 @@
 
 ### Data Analyst | Australia
 
+Building reports, dashboards, and analysis that help businesses make clearer decisions.
+
 <img src="business-story-board.svg" width="700" alt="Business Story Board" />
 
 🎓 Bachelor of Information Technology, QUT (Computer Science & Data Science) &nbsp;·&nbsp; ✓ Full working rights (485 visa)
 
 </div>
 
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+## Selected Work
 
 <div align="center">
 
-### Languages & Querying
+| Project | Stack | Outcome |
+|---|---|---|
+| **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
+| **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-991B1B?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-DC2626?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### Analytics & BI
+<div align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-991B1B?style=for-the-badge&logo=ibm&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-7F1D1D?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-991B1B?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-DC2626?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-7F1D1D?style=for-the-badge&logo=notion&logoColor=white)
+[View Full Portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-<div align="center">
-
-| 🏷️ | Project | Tech | Business Impact |
-|---|---------|------|-----------------|
-| 💰 | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
-| 🛵 | **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
-
-</div>
-
-<br>
-
-<div align="center">
-
-📁 **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
-
-</div>
-
----
-
-## 💼 Experience
-
-### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
+### Software Developer & Project Coordinator — OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
 
 - Translated stakeholder requirements into structured system features and data workflows  
 - Worked with MySQL-backed application data to support feature logic and reporting outputs  
 - Coordinated delivery across development, documentation, and stakeholder feedback cycles  
 
-### 🏬 Retail Floor Supervisor | IGA  
+### Retail Floor Supervisor — IGA  
 *Operations & Inventory*
 
 - Monitored stock movement, reconciled discrepancies, and supported day-to-day inventory decisions  
@@ -82,12 +51,12 @@
 
 ---
 
-## 📌 What I Work On
+## Capabilities
 
 <div align="center">
 
 | Reporting | Data Quality | SQL | Dashboards | Business Insight | Operations |
-|----------|--------------|-----|------------|------------------|------------|
+|---|---|---|---|---|---|
 | KPI tracking | Validation | Querying | Power BI | Cost drivers | Inventory |
 | Trend analysis | Reconciliation | Transformation | Visual reporting | Performance trends | Process improvement |
 | Stakeholder reporting | Integrity checks | Data modelling | Decision support | Commercial insight | Operational visibility |
@@ -96,18 +65,31 @@
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvardhanrai)
-[![Gmail](https://img.shields.io/badge/Gmail-991B1B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvardhanraii@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhanraii/data-analytics-portfolio)
-
-<br>
-
-*Open to junior data, reporting, and BI opportunities where strong analysis can improve business decisions.*
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-991B1B?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-DC2626?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-991B1B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-DC2626?style=for-the-badge&logo=ibm&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-991B1B?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:111111&height=70&section=footer" width="100%"/>
+---
+
+## Contact
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/yashvardhanrai) ·
+[Email](mailto:yashvardhanraii@gmail.com) ·
+[Portfolio](https://github.com/yashvardhanraii/data-analytics-portfolio)
+
+</div>
