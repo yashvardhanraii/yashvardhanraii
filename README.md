@@ -6,9 +6,18 @@
 
 <br>
 <br>
-<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="22" height="22" /> Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark.webp" width="22" height="22" /> Full working rights
+<div align="center">
+
+<h4>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="24">
+  Bachelor of Information Technology (Data Science & Computer Science)
+  &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark.webp" width="24">
+  Full working rights
+</h4>
+
+</div>
 
 </div>
 
@@ -46,7 +55,10 @@
 
 <div align="center">
 
-### **[View My Full Portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+<h4>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" width="24">
+  <a href="https://github.com/yashvardhanraii/data-analytics-portfolio"><b>View My Full Portfolio →</b></a>
+</h4>
 
 </div>
 
@@ -55,19 +67,19 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="34"> Experience</h2>
 
 ### Software Developer & Project Coordinator | OreFox AI Limited  
-*Industry Capstone · Brisbane, Australia*
+*Brisbane, Australia*
 
-- Translated stakeholder requirements into structured system features and data workflows  
-- Worked with MySQL-backed application data to support feature logic and reporting outputs  
-- Coordinated delivery across development, documentation, and stakeholder feedback cycles  
+- Worked with Django and MySQL to support backend feature development, structured data storage, and application logic.  
+- Translated stakeholder requests into scoped technical tasks, helping shape feature requirements and delivery priorities.  
+- Managed project coordination across development, documentation, and client feedback to keep delivery aligned with stakeholder expectations.  
 
-### Retail Floor Supervisor | IGA  
-*Operations & Inventory*
+### Retail Floor Supervisor (Operations & Inventory) | IGA South Brisbane  
+*Brisbane, Australia*
 
-- Monitored stock movement, reconciled discrepancies, and supported day-to-day inventory decisions  
-- Used Excel to track product trends, improve stock visibility, and support ordering decisions  
-- Coordinated supplier communication, stock returns, and operational issue resolution  
-
+- Used Excel to track stock movement, identify fast-moving items, and support ordering decisions across high-turnover inventory.  
+- Reconciled stock discrepancies, managed supplier returns, and maintained inventory accuracy across day-to-day store operations.  
+- Supported smooth day-to-day shop floor operations and overall store workflow.
+  
 ---
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="34"> What I Work On</h2>
