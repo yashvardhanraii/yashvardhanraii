@@ -6,39 +6,39 @@
 
 <br>
 
-<img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/GraduationCap.png" width="20" height="20" alt="Graduation Cap" /> Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; <img src="https://animated-fluent-emoji.vercel.app/emojis/Symbols/CheckMarkButton.png" width="20" height="20" alt="Check" /> Full working rights
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="20" height="20" /> Full working rights
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="22" height="22" /> Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-991B1B?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-DC2626?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-991B1B?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-111111?style=for-the-badge&logo=ibm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" alt="Plotly" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" alt="Power BI" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="Excel" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ibm.svg" alt="IBM Cognos" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="42" height="42" />
 
 </div>
 
 ---
 
-## <img src="https://animated-fluent-emoji.vercel.app/emojis/Travelandplaces/Rocket.png" width="22" height="22" alt="Rocket" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" height="22" /> Featured Projects
 
 <div align="center">
 
-| <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/MoneyBag.png" width="18" height="18" alt="Money Bag" /> | Project | Tech | Business Impact |
+| Icon | Project | Tech | Business Impact |
 |---|---------|------|-----------------|
-| <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/MoneyBag.png" width="18" height="18" alt="Money Bag" /> | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
-| <img src="https://animated-fluent-emoji.vercel.app/emojis/Travelandplaces/MotorScooter.png" width="18" height="18" alt="Scooter" /> | **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money Bag" width="18" height="18" /> | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Motor%20Scooter.png" alt="Motor Scooter" width="18" height="18" /> | **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
 
 </div>
 
@@ -46,22 +46,22 @@
 
 <div align="center">
 
-<img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/FileFolder.png" width="18" height="18" alt="Folder" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="18" height="18" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
 ---
 
-## <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/Briefcase.png" width="22" height="22" alt="Briefcase" /> Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="22" height="22" /> Experience
 
-### <img src="https://animated-fluent-emoji.vercel.app/emojis/Travelandplaces/OfficeBuilding.png" width="20" height="20" alt="Office" /> Software Developer & Project Coordinator | OreFox AI Limited  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="20" height="20" /> Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
 
 - Translated stakeholder requirements into structured system features and data workflows  
 - Worked with MySQL-backed application data to support feature logic and reporting outputs  
 - Coordinated delivery across development, documentation, and stakeholder feedback cycles  
 
-### <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/ShoppingCart.png" width="20" height="20" alt="Cart" /> Retail Floor Supervisor | IGA  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="20" height="20" /> Retail Floor Supervisor | IGA  
 *Operations & Inventory*
 
 - Monitored stock movement, reconciled discrepancies, and supported day-to-day inventory decisions  
@@ -70,7 +70,7 @@
 
 ---
 
-## <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/BarChart.png" width="22" height="22" alt="Chart" /> What I Work On
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="22" height="22" /> What I Work On
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/Mailbox.png" width="22" height="22" alt="Mailbox" /> Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mailbox.png" alt="Mailbox" width="22" height="22" /> Let's Connect
 
 <div align="center">
 
