@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
 
 <br>
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="22" height="22" /> Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark.webp" width="22" height="22" /> Full working rights
 
@@ -74,4 +76,26 @@
 
 | Reporting | Data Quality | SQL | Dashboards | Business Insight | Operations |
 |----------|--------------|-----|------------|------------------|------------|
-| KPI tracking | Validation | Querying | Power BI | Cost drivers | Inventory
+| KPI tracking | Validation | Querying | Power BI | Cost drivers | Inventory |
+| Trend analysis | Reconciliation | Transformation | Visual reporting | Performance trends | Process improvement |
+| Stakeholder reporting | Integrity checks | Data modelling | Decision support | Commercial insight | Operational visibility |
+
+</div>
+
+---
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="34"> Let's Connect</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvardhanrai)
+[![Gmail](https://img.shields.io/badge/Gmail-991B1B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvardhanraii@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhanraii/data-analytics-portfolio)
+
+<br>
+
+*Open to junior data, reporting, and BI opportunities where strong analysis can improve business decisions.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:111111&height=100&section=footer" width="100%"/>
