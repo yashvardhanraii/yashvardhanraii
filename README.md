@@ -5,10 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
 
 <br>
-<br>
-<br>
 
-🎓 Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; ✔️ Full working rights
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="22" height="22" /> Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark.webp" width="22" height="22" /> Full working rights
 
 </div>
 
@@ -37,20 +35,16 @@
 
 <div align="center">
 
-| 🏷️ | Project | Tech | Business Impact |
-|---|---------|------|-----------------|
-| 💰 | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
-| 🛵 | **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
+| Project | Tech | Business Impact |
+|---|------|-----------------|
+| **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
+| **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
 
 </div>
 
----
-
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" width="34"> Portfolio</h2>
-
 <div align="center">
 
-**[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+### **[View My Full Portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
@@ -58,14 +52,14 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="34"> Experience</h2>
 
-### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
+### Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
 
 - Translated stakeholder requirements into structured system features and data workflows  
 - Worked with MySQL-backed application data to support feature logic and reporting outputs  
 - Coordinated delivery across development, documentation, and stakeholder feedback cycles  
 
-### 🏬 Retail Floor Supervisor | IGA  
+### Retail Floor Supervisor | IGA  
 *Operations & Inventory*
 
 - Monitored stock movement, reconciled discrepancies, and supported day-to-day inventory decisions  
@@ -80,26 +74,4 @@
 
 | Reporting | Data Quality | SQL | Dashboards | Business Insight | Operations |
 |----------|--------------|-----|------------|------------------|------------|
-| KPI tracking | Validation | Querying | Power BI | Cost drivers | Inventory |
-| Trend analysis | Reconciliation | Transformation | Visual reporting | Performance trends | Process improvement |
-| Stakeholder reporting | Integrity checks | Data modelling | Decision support | Commercial insight | Operational visibility |
-
-</div>
-
----
-
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="34"> Let's Connect</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvardhanrai)
-[![Gmail](https://img.shields.io/badge/Gmail-991B1B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvardhanraii@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhanraii/data-analytics-portfolio)
-
-<br>
-
-*Open to junior data, reporting, and BI opportunities where strong analysis can improve business decisions.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:111111&height=100&section=footer" width="100%"/>
+| KPI tracking | Validation | Querying | Power BI | Cost drivers | Inventory
