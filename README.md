@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Tech Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" alt="Top Hat" width="25" height="25" /> Featured Projects
 
 <div align="center">
 
@@ -47,13 +47,13 @@
 
 <div align="center">
 
-📁 **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="18" height="18" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
 ---
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" /> Experience
 
 ### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
@@ -71,7 +71,7 @@
 
 ---
 
-## 📌 What I Work On
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> What I Work On
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 📫 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> Let's Connect
 
 <div align="center">
 
