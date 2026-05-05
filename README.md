@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=999999&color=FCA5A5&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Raised+in+a+business+environment;Learned+early+how+decisions+get+made;Chose+data+to+make+them+better" alt="Animated Intro" />
+<img src="assets/business-story-board.svg" width="760" alt="Business Story Board" />
 
 <br>
 
