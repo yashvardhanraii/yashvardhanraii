@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:DC2626&height=200&section=header&text=Yash%20Vardhan%20Rai&fontSize=50&fontColor=FAFAFA&fontAlignY=35&desc=Data%20Analyst%20%7C%20Australia&descAlignY=55&descColor=FCA5A5" width="100%"/>
 
-<div align="center" style="margin-top:-24px;">
+<div align="center" style="margin-top:-18px;">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
 
 <br>
 
-🎓 Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; ✔️ Full working rights
+<img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/GraduationCap.png" width="20" height="20" alt="Graduation Cap" /> Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; <img src="https://animated-fluent-emoji.vercel.app/emojis/Symbols/CheckMarkButton.png" width="20" height="20" alt="Check" /> Full working rights
 
 </div>
 
@@ -31,14 +31,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://animated-fluent-emoji.vercel.app/emojis/Travelandplaces/Rocket.png" width="22" height="22" alt="Rocket" /> Featured Projects
 
 <div align="center">
 
-| 🏷️ | Project | Tech | Business Impact |
+| <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/MoneyBag.png" width="18" height="18" alt="Money Bag" /> | Project | Tech | Business Impact |
 |---|---------|------|-----------------|
-| 💰 | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
-| 🛵 | **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
+| <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/MoneyBag.png" width="18" height="18" alt="Money Bag" /> | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
+| <img src="https://animated-fluent-emoji.vercel.app/emojis/Travelandplaces/MotorScooter.png" width="18" height="18" alt="Scooter" /> | **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
 
 </div>
 
@@ -46,22 +46,22 @@
 
 <div align="center">
 
-📁 **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+<img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/FileFolder.png" width="18" height="18" alt="Folder" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
 ---
 
-## 💼 Experience
+## <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/Briefcase.png" width="22" height="22" alt="Briefcase" /> Experience
 
-### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
+### <img src="https://animated-fluent-emoji.vercel.app/emojis/Travelandplaces/OfficeBuilding.png" width="20" height="20" alt="Office" /> Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
 
 - Translated stakeholder requirements into structured system features and data workflows  
 - Worked with MySQL-backed application data to support feature logic and reporting outputs  
 - Coordinated delivery across development, documentation, and stakeholder feedback cycles  
 
-### 🏬 Retail Floor Supervisor | IGA  
+### <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/ShoppingCart.png" width="20" height="20" alt="Cart" /> Retail Floor Supervisor | IGA  
 *Operations & Inventory*
 
 - Monitored stock movement, reconciled discrepancies, and supported day-to-day inventory decisions  
@@ -70,7 +70,7 @@
 
 ---
 
-## 📌 What I Work On
+## <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/BarChart.png" width="22" height="22" alt="Chart" /> What I Work On
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📫 Let's Connect
+## <img src="https://animated-fluent-emoji.vercel.app/emojis/Objects/Mailbox.png" width="22" height="22" alt="Mailbox" /> Let's Connect
 
 <div align="center">
 
