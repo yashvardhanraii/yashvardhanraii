@@ -14,10 +14,14 @@
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="32" height="32" align="center" />
-  Tech Stack
-</h2>
+<table>
+  <tr>
+    <td width="40">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="30" height="30" />
+    </td>
+    <td><h2>Tech Stack</h2></td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -36,10 +40,14 @@
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" alt="Top Hat" width="32" height="32" align="center" />
-  Featured Projects
-</h2>
+<table>
+  <tr>
+    <td width="40">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" width="30" height="30" />
+    </td>
+    <td><h2>Featured Projects</h2></td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -54,16 +62,20 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="18" height="18" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" width="18" height="18" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="32" height="32" align="center" />
-  Experience
-</h2>
+<table>
+  <tr>
+    <td width="40">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="30" height="30" />
+    </td>
+    <td><h2>Experience</h2></td>
+  </tr>
+</table>
 
 ### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
@@ -81,10 +93,14 @@
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="32" height="32" align="center" />
-  What I Work On
-</h2>
+<table>
+  <tr>
+    <td width="40">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="30" height="30" />
+    </td>
+    <td><h2>What I Work On</h2></td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -98,10 +114,14 @@
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="32" height="32" align="center" />
-  Let's Connect
-</h2>
+<table>
+  <tr>
+    <td width="40">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="30" height="30" />
+    </td>
+    <td><h2>Let's Connect</h2></td>
+  </tr>
+</table>
 
 <div align="center">
 
