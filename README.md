@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="business-story-board.svg" width="760" alt="Business Story Board" />
+<img src="business-story-board.svg" width="760" alt="Business Story Board" style="margin-top:-18px;" />
 
 <br>
 
