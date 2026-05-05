@@ -14,7 +14,7 @@
 
 ---
 
-<h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="28"></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="34"> Tech Stack</h2>
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-<h2>Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" width="28"></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" width="34"> Featured Projects</h2>
 
 <div align="center">
 
@@ -44,17 +44,19 @@
 
 </div>
 
-<br>
+---
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" width="34"> Portfolio</h2>
 
 <div align="center">
 
-📁 **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+**[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
 ---
 
-<h2>Experience <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="28"></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="34"> Experience</h2>
 
 ### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
@@ -72,7 +74,7 @@
 
 ---
 
-<h2>What I Work On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="28"></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="34"> What I Work On</h2>
 
 <div align="center">
 
@@ -86,7 +88,7 @@
 
 ---
 
-<h2>Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="28"></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="34"> Let's Connect</h2>
 
 <div align="center">
 
