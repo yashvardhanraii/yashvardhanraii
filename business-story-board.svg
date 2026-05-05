@@ -6,43 +6,32 @@
       fill: #FCA5A5;
     }
 
-    .line1 {
-      animation: show1 6s steps(32) forwards;
+    .line1, .line2, .line3 {
       clip-path: inset(0 100% 0 0);
+      animation-fill-mode: forwards;
+      animation-timing-function: steps(40);
     }
 
-    .line2 {
-      animation: show2 6s steps(36) forwards;
-      animation-delay: 1.9s;
-      clip-path: inset(0 100% 0 0);
-    }
-
-    .line3 {
-      animation: show3 6s steps(31) forwards;
-      animation-delay: 4.1s;
-      clip-path: inset(0 100% 0 0);
-    }
+    .line1 { animation: type1 1.8s forwards; }
+    .line2 { animation: type2 2s 2s forwards; }
+    .line3 { animation: type3 1.8s 4.4s forwards; }
 
     .cursor {
-      animation: blink 0.8s infinite;
+      animation: blink 0.8s infinite, hideCursor 0.1s 6.4s forwards;
       fill: #FCA5A5;
     }
 
-    @keyframes show1 {
-      to { clip-path: inset(0 0 0 0); }
-    }
-
-    @keyframes show2 {
-      to { clip-path: inset(0 0 0 0); }
-    }
-
-    @keyframes show3 {
-      to { clip-path: inset(0 0 0 0); }
-    }
+    @keyframes type1 { to { clip-path: inset(0 0 0 0); } }
+    @keyframes type2 { to { clip-path: inset(0 0 0 0); } }
+    @keyframes type3 { to { clip-path: inset(0 0 0 0); } }
 
     @keyframes blink {
       0%, 50% { opacity: 1; }
       51%, 100% { opacity: 0; }
+    }
+
+    @keyframes hideCursor {
+      to { opacity: 0; }
     }
   </style>
 
@@ -56,5 +45,5 @@
   <text x="55" y="121" class="text line2">Learned early how decisions get made</text>
   <text x="55" y="156" class="text line3">Chose data to make them better</text>
 
-  <text x="405" y="156" class="text cursor">|</text>
+  <text x="415" y="156" class="text cursor">|</text>
 </svg>
