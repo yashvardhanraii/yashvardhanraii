@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:DC2626&height=200&section=header&text=Yash%20Vardhan%20Rai&fontSize=50&fontColor=FAFAFA&fontAlignY=35&desc=Data%20Analyst%20%7C%20Australia&descAlignY=55&descColor=FCA5A5" width="100%"/>
 
-<div align="center">
+<div align="center" style="margin-top:-30px;">
 
-<img src="business-story-board.svg" width="760" alt="Business Story Board" style="margin-top:-18px;" />
+<img src="business-story-board.svg" width="700" alt="Business Story Board" />
 
-<br>
-
+<div style="margin-top:-6px;">
 🎓 Bachelor of Information Technology, QUT (Computer Science & Data Science) &nbsp;·&nbsp; ✓ Full working rights (485 visa)
+</div>
 
 </div>
 
