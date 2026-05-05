@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&multiline=true&width=720&height=70&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
+*I grew up in a business family.*  
+*I learned early that better decisions come from better information.*
 
 <br>
 
@@ -16,17 +17,17 @@
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/FAFAFA" height="42" alt="Python" />
-<img src="https://cdn.simpleicons.org/mysql/FAFAFA" height="42" alt="MySQL" />
-<img src="https://cdn.simpleicons.org/pandas/FAFAFA" height="42" alt="Pandas" />
-<img src="https://cdn.simpleicons.org/plotly/FAFAFA" height="42" alt="Plotly" />
-<img src="https://cdn.simpleicons.org/powerbi/FAFAFA" height="42" alt="Power BI" />
-<img src="https://cdn.simpleicons.org/microsoftexcel/FAFAFA" height="42" alt="Excel" />
-<img src="https://cdn.simpleicons.org/ibm/FAFAFA" height="42" alt="IBM Cognos" />
-<img src="https://cdn.simpleicons.org/git/FAFAFA" height="42" alt="Git" />
-<img src="https://cdn.simpleicons.org/github/FAFAFA" height="42" alt="GitHub" />
-<img src="https://cdn.simpleicons.org/visualstudiocode/FAFAFA" height="42" alt="VS Code" />
-<img src="https://cdn.simpleicons.org/notion/FAFAFA" height="42" alt="Notion" />
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-991B1B?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-DC2626?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-991B1B?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-111111?style=for-the-badge&logo=ibm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-991B1B?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
