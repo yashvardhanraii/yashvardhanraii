@@ -37,6 +37,8 @@
 ![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white)
+![QDAVI](https://img.shields.io/badge/QDAVI-991B1B?style=for-the-badge&logoColor=white)
+![TOWS](https://img.shields.io/badge/TOWS-111111?style=for-the-badge&logoColor=white)
 
 </div>
 
