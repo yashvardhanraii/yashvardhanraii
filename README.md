@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
 
 <br>
+<br>
+<br>
 
 🎓 Bachelor of Information Technology (Data Science & Computer Science) &nbsp;|&nbsp; ✔️ Full working rights
 
@@ -12,7 +14,10 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="22" height="22" style="vertical-align:-4px;" /> Tech Stack
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="32" height="32" align="center" />
+  Tech Stack
+</h2>
 
 <div align="center">
 
@@ -31,7 +36,10 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" alt="Top Hat" width="22" height="22" style="vertical-align:-4px;" /> Featured Projects
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" alt="Top Hat" width="32" height="32" align="center" />
+  Featured Projects
+</h2>
 
 <div align="center">
 
@@ -46,13 +54,16 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="18" height="18" style="vertical-align:-3px;" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="18" height="18" /> **[View full portfolio →](https://github.com/yashvardhanraii/data-analytics-portfolio)**
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="22" height="22" style="vertical-align:-4px;" /> Experience
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="32" height="32" align="center" />
+  Experience
+</h2>
 
 ### 🏢 Software Developer & Project Coordinator | OreFox AI Limited  
 *Industry Capstone · Brisbane, Australia*
@@ -70,7 +81,10 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="22" height="22" style="vertical-align:-4px;" /> What I Work On
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="32" height="32" align="center" />
+  What I Work On
+</h2>
 
 <div align="center">
 
@@ -84,4 +98,21 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="22" height="22" style="vertical-align
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="32" height="32" align="center" />
+  Let's Connect
+</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvardhanrai)
+[![Gmail](https://img.shields.io/badge/Gmail-991B1B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvardhanraii@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhanraii/data-analytics-portfolio)
+
+<br>
+
+*Open to junior data, reporting, and BI opportunities where strong analysis can improve business decisions.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:111111&height=100&section=footer" width="100%"/>
