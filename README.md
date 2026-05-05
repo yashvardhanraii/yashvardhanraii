@@ -2,8 +2,7 @@
 
 <div align="center">
 
-*I grew up in a business family.*  
-*I learned early that better decisions come from better information.*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
 
 <br>
 
@@ -26,8 +25,7 @@
 ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-111111?style=for-the-badge&logo=ibm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-991B1B?style=for-the-badge&logo=notion&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
