@@ -1,69 +1,23 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=200&section=header&text=Yash%20Vardhan%20Rai&fontSize=50&fontColor=F8FAFC&fontAlignY=35&desc=Data%20Analyst%20%7C%20Australia&descAlignY=55&descColor=BAE6FD" width="100%"/>
+
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="900">
-
-# Yash Vardhan Rai
-
-### Data Analyst | Australia
-
-*Building reports, dashboards, and analysis that help businesses make clearer decisions.*
-
-<br>
-
-🎓 Bachelor of Information Technology, QUT  
-Computer Science & Data Science · Distinction  
-
-✅ Full working rights · 485 visa
-
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/SQL-Querying%20%26%20Transformation-0F172A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards%20%26%20KPIs-164E63?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Business%20Reporting-Insights%20that%20drive%20decisions-0891B2?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </div>
 
 <br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="220">
-      <h3>SQL</h3>
-      <p>Querying · Joins · Views</p>
-    </td>
-    <td align="center" width="220">
-      <h3>Power BI</h3>
-      <p>Dashboards · KPIs · Trends</p>
-    </td>
-    <td align="center" width="220">
-      <h3>Business Reporting</h3>
-      <p>Insights · Decisions · Clarity</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-164E63?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-0891B2?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-0F172A?style=for-the-badge&logo=ibm&logoColor=white)
-
-</div>
-
----
 
 <div align="center">
 
 *I grew up in a business family.*  
 *I learned early that better decisions come from better information.*
+
+<br>
+
+🎓 Bachelor of Information Technology, QUT (Computer Science & Data Science) &nbsp;·&nbsp; ✅ Full working rights (485 visa)
 
 </div>
 
@@ -172,3 +126,5 @@ Computer Science & Data Science · Distinction
 *Open to junior data, reporting, and BI opportunities where strong analysis can improve business decisions.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" width="100%"/>
