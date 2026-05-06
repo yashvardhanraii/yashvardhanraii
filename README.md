@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-top:-18px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+better+decisions+come+from+better+information." alt="Business Story" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FCA5A5&center=true&vCenter=true&width=900&lines=I+grew+up+in+a+business+family.;I+learned+early+that+decisions+made+on+gut+feel,;could+be+made+better+with+data." alt="Business Story" />
 
 <br>
 <br>
@@ -30,6 +30,7 @@
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-991B1B?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-DC2626?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-991B1B?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-991B1B?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -37,8 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white)
-![QDAVI](https://img.shields.io/badge/QDAVI-991B1B?style=for-the-badge&logoColor=white)
-![TOWS](https://img.shields.io/badge/TOWS-111111?style=for-the-badge&logoColor=white)
 
 </div>
 
