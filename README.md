@@ -74,7 +74,7 @@
 - Translated stakeholder requests into scoped technical tasks, helping shape feature requirements and delivery priorities.  
 - Managed project coordination across development, documentation, and client feedback to keep delivery aligned with stakeholder expectations.  
 
-### Retail Floor Supervisor (Operations & Inventory) | IGA South Brisbane  
+### Retail Floor Supervisor | Operations & Inventory Analysis | IGA South Brisbane  
 *Brisbane, Australia*
 
 - Used Excel to track stock movement, identify fast-moving items, and support ordering decisions across high-turnover inventory.  
