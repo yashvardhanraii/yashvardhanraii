@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:DC2626&height=200&section=header&text=Yash%20Vardhan%20Rai&fontSize=50&fontColor=FAFAFA&fontAlignY=35&desc=Data%20Analyst%20%7C%20Australia&descAlignY=55&descColor=FCA5A5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:DC2626&height=200&section=header&text=Yash%20Vardhan%20Rai&fontSize=50&fontColor=FAFAFA&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20Automation%20Enthusiast%20%7C%20Australia&descAlignY=55&descColor=FCA5A5" width="100%"/>
 
 <div align="center" style="margin-top:-18px;">
 
@@ -7,8 +7,6 @@
 <br>
 <br>
 
-<div align="center">
-
 <h4>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="24">
   Bachelor of Information Technology (Data Science & Computer Science)
@@ -16,8 +14,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark.webp" width="24">
   Full working rights
 </h4>
-
-</div>
 
 </div>
 
@@ -30,11 +26,12 @@
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-991B1B?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-DC2626?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-991B1B?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-991B1B?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white)
 ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-111111?style=for-the-badge&logo=ibm&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-991B1B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Generative%20AI-DC2626?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -50,7 +47,8 @@
 | Project | Tech | Business Impact |
 |---|------|-----------------|
 | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
-| **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones reaching 6 deliveries/hour |
+| **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones |
+| **AI Inventory Investigation Agent** | Azure AI Foundry · Azure Functions · Python | Built an AI-assisted workflow to investigate inventory discrepancies, prioritise issues and support faster human decision-making |
 
 </div>
 
@@ -67,31 +65,38 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="34"> Experience</h2>
 
-### Software Developer & Project Coordinator | OreFox AI Limited  
+### Business & Data Analyst | Dream Big AJ Pty Ltd  
+*Sunshine Coast, Australia*
+
+- Work closely with the Director to analyse business and financial data and support day-to-day decision-making.
+- Prepare data in Excel and Power BI to track business trends, financial performance and key metrics.
+- Investigate business questions, identify patterns and present clear findings to support operational and commercial decisions.
+
+### Web Developer & Project Coordinator | OreFox Ai Limited  
 *Brisbane, Australia*
 
-- Worked with Django and MySQL to support backend feature development, structured data storage, and application logic.  
-- Translated stakeholder requests into scoped technical tasks, helping shape feature requirements and delivery priorities.  
-- Managed project coordination across development, documentation, and client feedback to keep delivery aligned with stakeholder expectations.  
+- Built and improved application features using Python, Django and MySQL, including OpenAI-powered functionality through API integration.
+- Worked with stakeholders to translate business requirements into scoped technical solutions across Agile sprints.
+- Supported testing, documentation and project coordination across development and stakeholder feedback.
 
 ### Retail Floor Supervisor | Operations & Inventory Analysis | IGA South Brisbane  
 *Brisbane, Australia*
 
-- Used Excel to track stock movement, identify fast-moving items, and support ordering decisions across high-turnover inventory.  
-- Reconciled stock discrepancies, managed supplier returns, and maintained inventory accuracy across day-to-day store operations.  
-- Supported smooth day-to-day shop floor operations and overall store workflow.
-  
+- Used Excel to analyse stock movement, sales and deliveries to support ordering and inventory decisions.
+- Reconciled physical and system stock records, investigating discrepancies to improve inventory accuracy.
+- Managed supplier orders, returns and day-to-day floor operations across a fast-moving retail environment.
+
 ---
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="34"> What I Work On</h2>
 
 <div align="center">
 
-| Reporting | Data Quality | SQL | Dashboards | Business Insight | Operations |
-|----------|--------------|-----|------------|------------------|------------|
-| KPI tracking | Validation | Querying | Power BI | Cost drivers | Inventory |
-| Trend analysis | Reconciliation | Transformation | Visual reporting | Performance trends | Process improvement |
-| Stakeholder reporting | Integrity checks | Data modelling | Decision support | Commercial insight | Operational visibility |
+| Reporting | Data Quality | SQL | Dashboards | Business Insight | AI & Automation |
+|----------|--------------|-----|------------|------------------|-----------------|
+| KPI tracking | Validation | Querying | Power BI | Cost drivers | Generative AI |
+| Trend analysis | Reconciliation | Transformation | Visual reporting | Performance trends | Prompt engineering |
+| Stakeholder reporting | Integrity checks | Data modelling | Decision support | Commercial insight | AI workflows |
 
 </div>
 
@@ -107,7 +112,7 @@
 
 <br>
 
-*Open to junior data, reporting, and BI opportunities where strong analysis can improve business decisions.*
+*Open to Data Analyst, Business Intelligence and Business Analytics opportunities, particularly where data, AI and automation can improve business decisions.*
 
 </div>
 
