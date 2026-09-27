@@ -48,7 +48,7 @@
 |---|------|-----------------|
 | **[Personal Finance Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)** | MySQL · SQL · Power BI | Built a spending dashboard to track behaviour, uncover cost drivers, and identify BNPL as the largest expense category (32.3%) |
 | **[DoorDash Delivery Analysis](https://github.com/yashvardhanraii/doordash-delivery-analysis)** | Python · Pandas · Plotly | Analysed 799 delivery records to identify peak operating windows, delivery bottlenecks, and high-efficiency zones |
-| **[AI Inventory Investigation Agent](https://github.com/yashvardhanraii/ai-inventory-investigation-agent/tree/main)** | Azure AI Foundry · Azure Functions · Python | Built an AI-assisted workflow to investigate inventory discrepancies, prioritise issues and support faster human decision-making |
+| **[AI Inventory Investigation Agent](https://github.com/yashvardhanraii/ai-inventory-investigation-agent)** | Azure AI Foundry · Azure Functions · Python | Built an AI-assisted workflow to investigate inventory discrepancies, prioritise issues and support faster human decision-making |
 
 </div>
 
