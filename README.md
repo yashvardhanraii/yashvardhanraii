@@ -75,7 +75,7 @@
 ### Web Developer & Project Coordinator | OreFox Ai Limited  
 *Brisbane, Australia*
 
-- Built and improved application features using Python, Django and MySQL, including OpenAI-powered functionality through API integration.
+- Built application features using Python, Django and MySQL, including OpenAI-powered functionality through API integration.
 - Worked with stakeholders to translate business requirements into scoped technical solutions across Agile sprints.
 - Supported testing, documentation and project coordination across development and stakeholder feedback.
 
